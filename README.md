@@ -22,16 +22,16 @@ This script provides a menu-driven interface to quickly access your favorite pen
 
 2.Make it executable
 
-bash
-chmod +x toolkit.sh
+```bash
+   chmod +x toolkit.sh
 
 
 3.Run the script
 
-bash
+```bash
 ./toolkit.sh
 
-4.🛠️ Usage
+##🛠️ Usage
 Run the script
 
 Select a category from the main menu:
@@ -46,7 +46,7 @@ Network Scanning - nmap, masscan
 
 Password Attacks - hydra, john, hashcat
 
-5.📝 Prerequisites
+##📝 Prerequisites
 Kali Linux or any Linux with pentesting tools installed
 
 Bash shell
