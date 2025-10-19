@@ -19,18 +19,19 @@ This script provides a menu-driven interface to quickly access your favorite pen
    ```bash
    git clone https://github.com/yourusername/pentesting-toolkit.git
    cd pentesting-toolkit
+   ```
 
 2.Make it executable
 
    ```bash
    chmod +x toolkit.sh
-
+   ```
 
 3.Run the script
 
 ```bash
 ./toolkit.sh
-
+```
 ##🛠️ Usage
 Run the script
 
